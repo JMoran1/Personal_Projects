@@ -1,0 +1,22 @@
+nav {
+    background-color:green;
+    margin:0;
+    padding:0;
+    height:100%;
+
+}
+.fs {
+    height: 300px;;
+}
+.body {
+    height:100%;
+}
+
+.mainC {
+    height: 700px;
+    overflow: scroll;
+}
+
+.name {
+    width: 75%;
+}
